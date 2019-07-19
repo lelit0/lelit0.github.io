@@ -38,7 +38,7 @@ menu,
 nav,
 section,
 summary {
-  display: block;
+  display: flow-root;
 }
 
 audio, canvas, progress, video {
